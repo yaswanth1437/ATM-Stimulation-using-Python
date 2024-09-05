@@ -1,5 +1,10 @@
 """ATM Stimulation allows you to See your Account Balance, Withdraw amount, Deposit amount and Changing PIN
-and it gives you Real time ATM Stimulation"""
+and it gives you Real time ATM Stimulation
+Balance Inquiry: Users can check their current account balance.
+Cash Withdrawal: Users can withdraw funds from their account by specifying an amount.
+Deposit: Users can deposit funds into their account, either virtually or by simulating check or cash deposits.
+PIN change: Users can Update their PIN if they Forgot.
+"""
 
 # importing libraries
 import time as t
