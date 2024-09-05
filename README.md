@@ -5,3 +5,11 @@ Process at ATM Machines
 2. If entered PIN is true then gives access to Process further
 3. Select Your choice from Blanace Enqury, withdraw amount, deposit amount, PIN change.
 4. By selecting those it follows respective function.
+
+The all the process will be done if entered PIN is true, otherwise It returns Please enter valid PIN.
+
+Functions are involved
+Balance Inquiry: Users can check their current account balance.
+Cash Withdrawal: Users can withdraw funds from their account by specifying an amount.
+Deposit: Users can deposit funds into their account, either virtually or by simulating check or cash deposits.
+PIN change: User can be update their PIN if they forgot.
