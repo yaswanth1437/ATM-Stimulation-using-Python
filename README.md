@@ -26,6 +26,7 @@ Otherwise:
 
 **ATM Operations**
     After successful login, users can perform the following operations:
+    
 **1. Balance Inquiry**
     Displays the user’s current account balance stored in the database.
     
