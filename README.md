@@ -27,11 +27,13 @@ Otherwise:
     After successful login, users can perform the following operations:
 **1. Balance Inquiry**
     Displays the user’s current account balance stored in the database.
+    
 **2. Cash Withdrawal**
 Allows users to withdraw a specific amount.
   The system ensures:
     There is sufficient balance
     The balance is updated in the database after withdrawal
+    
 **3. Deposit Amount**
     Users can deposit money into their account.
   The deposited amount is added to the existing balance and stored in the database.
