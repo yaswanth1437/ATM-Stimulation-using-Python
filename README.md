@@ -5,6 +5,7 @@
   This project simulates the functioning of a real ATM using Python and SQLite database. It demonstrates how an ATM system handles account creation, authentication, balance management, withdrawals, deposits, and PIN updates. The system provides a realistic and secure ATM-like experience.
 
 **How it works:**
+
 **1. Account Creation**
 Users can create a new bank account by entering:
 1. Account Holder Name
